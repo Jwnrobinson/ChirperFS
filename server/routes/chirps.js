@@ -1,3 +1,4 @@
+import DB from "../DB";
 const express = require('express');
 const chirpsStore = require('../filestore');
 
